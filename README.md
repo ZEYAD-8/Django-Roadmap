@@ -23,27 +23,58 @@ The Roadmap has been designed to cover the fundamental and advanced topics in Ba
 ### Week 1: Python Fundamentals
 - **Topics**: Variables, data types, control flow, functions.
 - **Resources**:  
-  - [Python Basics - Codecademy](https://www.codecademy.com/learn/learn-python)
-  - [Control Flow - Real Python](https://realpython.com/python-conditional-statements/)
+  - **Articles**
+    - [Python For Beginners - real python](https://realpython.com/python-first-steps/)
+    - [Python For Beginners - w3schools](https://www.w3schools.com/python/)
+    - [Python Basics - Codecademy](https://www.codecademy.com/learn/learn-python)
+    - [Control Flow - Real Python](https://realpython.com/python-conditional-statements/)
+  - **Videos**
+    - [Python for Beginners (Code with Harry - Playlist)](https://www.youtube.com/playlist?list=PLu0W_9lII9ajyk081To1Cbt2eI5913SsL)
+    - [Python Tutorial - Programming with Mosh](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
+    - [Python Full Course by freeCodeCamp](https://youtu.be/rfscVS0vtbw)
 - **Task**: Create a simple Python script performing arithmetic operations and control flow logic.
 
 ### Week 2: HTML/CSS Basics
 - **Topics**: HTML structure, CSS styling, basic responsive design.
-- **Resources**:  
-  - [HTML & CSS - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn)
+- **Resources**:
+  - **Articles**  
+    - [HTML & CSS - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn)
+    - [HTML Basics](https://www.w3schools.com/html/)
+    - [CSS Fundamentals](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
+    - [W3Schools HTML and CSS](https://www.w3schools.com/html/)
+  - **Videos**:
+    - [HTML Crash Course (Traversy Media)](https://www.youtube.com/watch?v=UB1O30fR-EE)
+    - [CSS Crash Course (Traversy Media)](https://www.youtube.com/watch?v=yfoY53QXEnI)
+    --
+    - [HTML Full Course by freeCodeCamp](https://youtu.be/pQN-pnXPaVg)
+    - [CSS Full Course by freeCodeCamp](https://youtu.be/1Rs2ND1ryYc)
+
 - **Task**: Build a static webpage with HTML and style it with CSS.
 
 ### Week 3: Git and GitHub Basics
 - **Topics**: Version control, creating repositories, using GitHub for code collaboration.
 - **Resources**:  
-  - [Git Handbook - GitHub Guides](https://guides.github.com/introduction/git-handbook/)
-  - [Git & GitHub Crash Course - FreeCodeCamp](https://www.freecodecamp.org/)
+  - **Articles**
+    - [GIT - Conventional Commits](https://medium.com/opensight-ch/git-semantic-versioning-and-conventional-commits-564aece418a0)
+    - [Git Handbook - GitHub Guides](https://guides.github.com/introduction/git-handbook/)
+  - **Videos**
+    - [Git & GitHub Crash Course - FreeCodeCamp](https://www.freecodecamp.org/)
+
 - **Task**: Create a repository on GitHub, make commits, and submit a pull request.
 
 ### Week 4: Algorithm Basics
 - **Topics**: Basic data structures and sorting algorithms.
 - **Resources**:  
   - [Introduction to Algorithms - GeeksforGeeks](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
+
+- **Resources**:
+  - Articles:
+    - [OOP Concepts in Python](https://realpython.com/python3-object-oriented-programming/)
+    - [Python OOP Basics](https://www.geeksforgeeks.org/python-object-oriented-programming/)
+  - Videos:
+    - [OOP Concepts in Python by Programming with Mosh](https://youtu.be/JeznW_7DlB0)
+    - [Object-Oriented Programming in Python by Clever Programmer](https://youtu.be/DaA4p2Wod4g)
+    - [Code With Harry - OOP Playlist](https://www.youtube.com/playlist?list=PLu0W_9lII9aiL0kysYlfSOUgY5rNlOhUd)
 - **Task**: Implement a basic sorting algorithm in Python and upload it to GitHub.
 
 ---
@@ -54,78 +85,131 @@ The Roadmap has been designed to cover the fundamental and advanced topics in Ba
 - **Topics**: Introduction to HTTP, client-server model, request-response cycle.
 - **Resources**:  
   - [HTTP Overview - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
+  - [Beginner’s Guide to HTTP](https://www.freecodecamp.org/news/http-and-everything-you-need-to-know-about-it/)
   - [Client-Server Model - GeeksforGeeks](https://www.geeksforgeeks.org/introduction-to-web-server/)
+  - [HTTP and Web Explained by Fireship](https://youtu.be/iYM2zFP3Zn0)
+  - [HTTP Basics by freeCodeCamp](https://youtu.be/pPdEahZgs3A)
 - **Task**: Write notes on HTTP methods (GET, POST) and the purpose of web servers.
 
 ### Week 2: Introduction to Flask
 - **Topics**: Flask setup, creating a Flask project, basic routing.
 - **Resources**:  
-  - [Flask Documentation - Quickstart Guide](https://flask.palletsprojects.com/en/2.0.x/quickstart/)
+  - **Articles**
+    - [Flask Documentation - Quickstart Guide](https://flask.palletsprojects.com/en/2.0.x/quickstart/)
+    - [Flask Quickstart Guide](https://www.geeksforgeeks.org/python-flask-introduction/)
+  - **Videos**
+    - [Flask Full Course by freeCodeCamp](https://youtu.be/Z1RJmh_OqeA)
+    - [Flask Basics by Corey Schafer](https://youtu.be/MwZwr5Tvyxo)
 - **Task**: Install Flask and create a simple web app with one route displaying “Hello, World!”
 
 ### Week 3: Basic Flask Views and Templates
 - **Topics**: Flask views, rendering HTML templates.
-- **Resources**:  
-  - [Flask Templates - Flask Documentation](https://flask.palletsprojects.com/en/2.0.x/templating/)
+- **Resources**:
+  - **Articles**
+    - [Flask Templates - Flask Documentation](https://flask.palletsprojects.com/en/2.0.x/templating/)
+    - [Building REST APIs with Flask](https://realpython.com/flask-connexion-rest-api/)
+    - [Flask RESTful Quickstart](https://flask-restful.readthedocs.io/en/latest/quickstart.html)
+  - **Videos**
+    - [Flask REST API Tutorial by Corey Schafer](https://youtu.be/s_ht4AKnWZg)
+    - [Build REST APIs with Flask by Pretty Printed](https://youtu.be/GMppyAPbLYk)
+    - [Flask with Jinja2 Tutorial](https://www.youtube.com/watch?v=k3D0cWyNno4)
+    - [Dynamic Forms in Flask](https://www.youtube.com/watch?v=Yu4TMQKdsQE)
+- **Extra**:
+  - [Dynamic URL Routing - Flask Documentation](https://flask.palletsprojects.com/en/2.0.x/quickstart/#url-building)
+
 - **Task**: Create a template in Flask that displays a welcome message with basic HTML styling.
 
-### Week 4: Simple Flask Application
-- **Topics**: Dynamic routing, passing data to templates.
-- **Resources**:  
-  - [Dynamic URL Routing - Flask Documentation](https://flask.palletsprojects.com/en/2.0.x/quickstart/#url-building)
+### Week 4: Recap Week and Final Project
 - **Task**: Build a small Flask app that dynamically displays information based on URL input.
 
 ---
----
----
----
+
 
 
 # Intermediate level
 **Duration**: 3 Months 
 ## **Month 1: Core Backend Skills**
 
-### **Week 1: Python Review**
-- **Key Topics**: Variables, Data Structures, Functions, Object-Oriented Programming  
-- **Resources**:  
-  - [Real Python - Python Basics](https://realpython.com/python-basics/)
-  - [Python Documentation](https://docs.python.org/3/tutorial/)  
-- **Task**: Create a Python program using classes, functions, and data structures to manage a simple library system.
+### **Week 1: Object-Oriented Programming (OOP)**
+- **Key Topics**: Classes, Objects, Inheritance, Polymorphism, ..etc
+- **Resources**:
+  - **Articles**
+    - [OOP Concepts in Python](https://realpython.com/python3-object-oriented-programming/)
+    - [Python OOP Basics](https://www.geeksforgeeks.org/python-object-oriented-programming/)
+  - **Videos**
+    - [OOP Concepts in Python by Programming with Mosh](https://youtu.be/JeznW_7DlB0)
+    - [Object-Oriented Programming in Python by Clever Programmer](https://youtu.be/DaA4p2Wod4g)
+- **Task**: Create a Python program to manage a library system with classes for books, members, and loans.
 
-### **Week 2: Advanced Python Concepts**
+
+### **Week 2: Databases and SQL**
+- **Key Topics**: Database Design, CRUD Operations, SQL Queries
+- **Resources**:
+  - Articles:
+    - [Learn SQL Basics](https://sqlzoo.net/)
+    - [Database Concepts](https://www.geeksforgeeks.org/introduction-of-dbms-database-management-system-set-1/)
+  - Videos:
+    - [SQL for Beginners by freeCodeCamp](https://youtu.be/HXV3zeQKqGY)
+    - [Database Design Basics by AmigosCode](https://youtu.be/p-yodKWcNpA)
+  - Useful Webite+
+
+- **Task**: Design a database schema for a blog system and write SQL queries to manage posts and comments.
+
+### **Week 3: Advanced Python Concepts**
 - **Key Topics**: Decorators, Context Managers, Generators  
-- **Resources**:  
-  - [Python Advanced Topics](https://realpython.com/tutorials/advanced/)  
-  - [Python Docs - Advanced](https://docs.python.org/3/library/)  
-- **Task**: Write a Python script using decorators and context managers to manage file handling for a data analysis project.
+- **Resources**
+  - **Articles**
+    - [Python Advanced Topics](https://realpython.com/tutorials/advanced/)
+    - [Python Docs - Advanced](https://docs.python.org/3/library/)  
+  - **Videos**
+    - [Python Generators and Iterators by Corey Schafer](https://youtu.be/bD05uGo_sVI)
+    - [Python Decorators in Depth by Clever Programmer](https://youtu.be/FsAPt_9Bf3U)
+- **Task**: Write a Python script using decorators and context managers
+ to manage file handling for a data analysis project.
 
-### **Week 3: Introduction to Django Framework**
+### **Week 4: Introduction to Django Framework**
 - **Key Topics**: Django Setup, Models, Views, URLs, Templates  
-- **Resources**:  
-  - [Django Official Tutorial](https://docs.djangoproject.com/en/stable/intro/tutorial01/)  
-  - [Django for Beginners](https://djangoforbeginners.com/)  
-  - [Python Django - The Practical Guide | Udemy](https://www.udemy.com/course/python-django-the-practical-guide/?couponCode=LETSLEARNNOW)
+- **Resources**:
+  - **Articles**
+    - [Django Official Tutorial](https://docs.djangoproject.com/en/stable/intro/tutorial01/)
+    - [Django for Beginners - MDN](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Introduction)
+    - [Django for Beginners website](https://djangoforbeginners.com/)  
+
+  - **Videos**
+    - [Django Full Course by freeCodeCamp](https://youtu.be/F5mRW0jo-U4)
+    - [Django Crash Course by Corey Schafer](https://youtu.be/UmljXZIypDc)
+    - [Python Django - The Practical Guide | Udemy](https://www.udemy.com/course/python-django-the-practical-guide/?couponCode=LETSLEARNNOW)
+
 - **Task**: Build a simple Django app that lists books from a model with basic CRUD functionality.
 
-### **Week 4: Django ORM & Databases**
-- **Key Topics**: ORM, Queries, Relationships, Database Setup  
+  
+### **Week 5: Django Signals & ORM**
+- **Key Topics**: Class based Views, Middleware, Signals, ORM, Queries, Relationships, Database Setup  
 - **Resources**:  
-  - [Django ORM Documentation](https://docs.djangoproject.com/en/stable/topics/db/models/)  
-  - [Django ORM Tutorial](https://realpython.com/modeling-polymorphism-django-orm/)  
+  - **Articles**:
+    - [Django ORM Documentation](https://docs.djangoproject.com/en/stable/topics/db/models/)  
+    - [Django ORM Tutorial](https://realpython.com/modeling-polymorphism-django-orm/)  
+    - [Django Models, Views, Templates](https://realpython.com/get-started-with-django-1/)
+    - [Understanding Class-Based Views in Django](https://realpython.com/class-based-views-vs-function-based-views-django/)
+    - [Django Middleware and Signals](https://docs.djangoproject.com/en/4.0/topics/http/middleware/)
+  - **Videos**
+    - [Django Signals Tutorial by Pretty Printed](https://youtu.be/7ORdRaAMZbc)
+    - [Class-Based Views in Django by Corey Schafer](https://youtu.be/vSF54b1xfKw)
+
 - **Task**: Extend the Django app to include relationships between models, such as an Author model and a Book model with ForeignKey.
 
 ---
 
 ## **Month 2: Advanced Django and APIs**
 
-### **Week 5: Django REST Framework (DRF) Basics**
+### **Week 6: Django REST Framework (DRF) Basics**
 - **Key Topics**: Setting up DRF, Serializers, ViewSets, Routers  
 - **Resources**:  
   - [DRF Documentation](https://www.django-rest-framework.org/)  
   - [DRF Tutorial](https://www.django-rest-framework.org/tutorial/1-serialization/)  
 - **Task**: Create a DRF API to list and create books from the Django app, using serializers and viewsets.
 
-### **Week 6: Authentication and Permissions in DRF**
+### **Week 7: Authentication and Permissions in DRF**
 - **Key Topics**: Authentication, Permissions, Token Authentication  
 - **Resources**:  
   - [DRF Authentication](https://www.django-rest-framework.org/api-guide/authentication/)  
@@ -133,7 +217,7 @@ The Roadmap has been designed to cover the fundamental and advanced topics in Ba
   - [APIs]()
 - **Task**: Implement token-based authentication and permissions in your API to restrict access to authenticated users.
 
-### **Week 7: Building APIs in Django**
+### **Week 8: Building APIs in Django**
 - **Key Topics**: CRUD Operations with DRF, API Testing  
 - **Resources**:  
   - [Building APIs with Django](https://realpython.com/django-rest-framework-quick-start/)  
@@ -141,7 +225,7 @@ The Roadmap has been designed to cover the fundamental and advanced topics in Ba
   - [Postman for API Testing](https://www.postman.com/)  
 - **Task**: Complete the task management API by adding CRUD operations for tasks, and test them using Postman.
 
-### **Week 8: Docker Basics**
+### **Week 9: Docker Basics**
 - **Key Topics**: Introduction to Docker, Docker Compose, Dockerizing Django Apps  
 - **Resources**:  
   - [Docker Documentation](https://docs.docker.com/get-started/)  
@@ -152,28 +236,28 @@ The Roadmap has been designed to cover the fundamental and advanced topics in Ba
 
 ## **Month 3: Deployment and Real-World Skills**
 
-### **Week 9: Dockerizing Django Apps**
+### **Week 10: Dockerizing Django Apps**
 - **Key Topics**: Creating Dockerfiles, Docker Compose for Multi-container Apps  
 - **Resources**:  
   - [Dockerize a Django App](https://realpython.com/dockerizing-python-django/)  
   - [Docker Compose Docs](https://docs.docker.com/compose/)  
 - **Task**: Extend your Docker setup to use multiple containers (Django, PostgreSQL, Redis).
 
-### **Week 10: Deploying Django Apps**
+### **Week 11: Deploying Django Apps**
 - **Key Topics**: Deploying to AWS, Heroku, or DigitalOcean, Managing Production Environments  
 - **Resources**:  
   - [Deploying Django on Heroku](https://devcenter.heroku.com/articles/getting-started-with-django)  
   - [AWS EC2 Deployment Guide](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html)  
 - **Task**: Deploy your Dockerized Django app to Heroku or AWS EC2, ensuring that all services are working properly.
 
-### **Week 11: API Rate Limiting and Caching**
+### **Week 12: API Rate Limiting and Caching**
 - **Key Topics**: Implementing Caching, Using Redis, API Rate Limiting  
 - **Resources**:  
   - [Django Caching](https://docs.djangoproject.com/en/stable/topics/cache/)  
   - [DRF Rate Limiting](https://www.django-rest-framework.org/api-guide/throttling/)  
 - **Task**: Implement caching for API responses and rate limiting for the task API.
 
-### **Week 12: Final Project Planning and Setup**
+### **Week 13: Final Project Planning and Setup**
 - **Key Topics**: Task management application design, planning features, Dockerizing  
 - **Resources**:  
   - [Django Project Best Practices](https://realpython.com/tutorials/django/)  
@@ -181,9 +265,7 @@ The Roadmap has been designed to cover the fundamental and advanced topics in Ba
 - **Task**: Set up the final project repository, outline the features, and begin coding the initial structure.
 
 ---
----
----
----
+
 
 
 
